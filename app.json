@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "hud",
-    "slug": "hud",
-    "scheme": "hud",
+    "name": "mini-hud",
+    "slug": "mini-hud",
+    "scheme": "mini-hud",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.reset.hud",
+      "bundleIdentifier": "com.reset.mini-hud",
       "requireFullScreen": true
     },
     "android": {
@@ -31,7 +31,7 @@
         "android.permission.WRITE_EXTERNAL_STORAGE",
         "android.permission.ACCESS_MEDIA_LOCATION"
       ],
-      "package": "com.reset.hud"
+      "package": "com.reset.mini-hud"
     },
     "web": {
       "favicon": "./assets/favicon.png"
